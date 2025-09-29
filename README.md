@@ -9,6 +9,8 @@
 💬 Fale direto com a nossa empresa:  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55459983588478)
 
+### 🏢 Histórico de Contribuições na Ilumisol
+ - [AdemirIlumisol](https://github.com/AdemirIlumisol). 
 ---
 
 ### 🚀 BitWise Agency
@@ -39,12 +41,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-M-JR&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=A-M-JR&theme=radical)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-M-JR&theme=radical)
-
----
-
-### 🏢 Histórico de Contribuições na Ilumisol
-Durante meu período como desenvolvedor na **[Ilumisol Energia Solar](https://ilumisol.com.br/)**, mantive atividades utilizando o perfil [AdemirIlumisol](https://github.com/AdemirIlumisol).  
-Confira indicadores desse período no perfil corporativo.
 
 ---
 
