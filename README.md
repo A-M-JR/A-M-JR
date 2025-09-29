@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou o Ademir Junior (A-M-JR)
 
-💡 **Sócio na [BitWise Agency](https://bitwiseagency.com.br/)**  
+👨‍💻 Atualmente trabalho como **Desenvolvedor Web Pleno** na [Ilumisol Energia Solar](https://ilumisol.com.br/)  
+💡 Sócio na [BitWise Agency](https://bitwiseagency.com.br/), focada em **landing pages** e soluções digitais para empresas  
 🚀 Empresa focada em **landing pages, sistemas web e soluções personalizadas para empresas**  
-🤝 Junto com meu parceiro [Breno Parizotto](https://github.com/BrenoParizotto)  
+📚 Bacharel em **Sistemas de Informação e Engenharia de Software** pelo Centro Universitário da Fundação Assis Gurgacz (FAG)
 
 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ademir-maiante-junior-860b791a8/)  
 💬 Fale direto com a nossa empresa:  
@@ -34,11 +35,6 @@
 
 ### 🏢 Contribuições Empresariais (Ilumisol)
 📌 Também mantenho contribuições diárias no perfil corporativo da Ilumisol: [AdemirIlumisol](https://github.com/AdemirIlumisol)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirIlumisol&show_icons=true&theme=tokyonight)  
-![Streak stats](https://streak-stats.demolab.com?user=AdemirIlumisol&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemirIlumisol&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🐍 Minhas Contribuições
@@ -60,9 +56,8 @@
 
 ### 🎯 Sobre mim
 - Gosto de transformar ideias em soluções digitais  
-- Foco atual: **landing pages de alta conversão**  
-- Cafézinho é meu combustível diário ☕  
-- Nas horas vagas → aprender novas stacks & jogar um futebol ⚽  
+- Foco atual: **landing pages de alta conversão**   
+- Nas horas vagas → aprender novas stacks  
 
 ---
 ⭐ *“Transformando dados em soluções inteligentes para impulsionar empresas”*
