@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou o Ademir Junior (A-M-JR)
+# AdemirJunior  
+## Olá, seja bem-vindo ao meu perfil 👋😄  
 
-👨‍💻 Atualmente trabalho como **Desenvolvedor Web Pleno** na [Ilumisol Energia Solar](https://ilumisol.com.br/)  
-💡 Sócio na [BitWise Agency](https://bitwiseagency.com.br/), focada em **landing pages** e soluções digitais para empresas  
-🚀 Empresa focada em **landing pages, sistemas web e soluções personalizadas para empresas**  
-📚 Bacharel em **Sistemas de Informação e Engenharia de Software** pelo Centro Universitário da Fundação Assis Gurgacz (FAG)
+- 👨‍💻 Atualmente trabalho como **Desenvolvedor Web Pleno** na [Ilumisol Energia Solar](https://ilumisol.com.br/)  
+- 💡 Sócio na [BitWise Agency](https://bitwiseagency.com.br/), focada em **landing pages** e soluções digitais para empresas  
+- 📚 Bacharel em **Sistemas de Informação e Engenharia de Software** pelo Centro Universitário da Fundação Assis Gurgacz (FAG)  
 
 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ademir-maiante-junior-860b791a8/)  
 💬 Fale direto com a nossa empresa:  
@@ -11,17 +11,26 @@
 
 ---
 
+### 🚀 BitWise Agency
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/A-M-JR/A-M-JR/main/logo-bitwise.svg" alt="BitWise Agency" width="250"/>
+</p>
+
+💡 **BitWise Agency** é uma agência digital especializada em:
+- 📌 **Landing pages de alta conversão**  
+- ⚡ **Sistemas web sob medida**  
+- 🤝 **Soluções digitais para empresas**  
+
+🌍 Conheça mais: [bitwiseagency.com.br](https://bitwiseagency.com.br)  
+📲 Entre em contato: [WhatsApp](https://wa.me/55459983588478)  
+
+---
+
 ### ⚡ Stack Atual
 - 🖥️ **Back-end**: PHP 7.4, CodeIgniter 3, Node.js  
 - 🎨 **Front-end**: Bootstrap 5, TailwindCSS, React  
 - 🗄️ **Banco de Dados**: MySQL, PostgreSQL  
-
----
-
-### 🚀 Projetos em Destaque
-- [Legado CRM](https://github.com/A-M-JR/legado-CRM) – Sistema de gestão de clientes feito em TypeScript  
-- [BitWise Agency Site](https://github.com/A-M-JR/BitWise-Site) – Landing page institucional da empresa  
-- [Brinque CRM](https://github.com/A-M-JR/brinque-crm) – CRM simples e rápido para pequenas empresas  
 
 ---
 
@@ -33,8 +42,10 @@
 
 ---
 
-### 🏢 Contribuições Empresariais (Ilumisol)
-📌 Também mantenho contribuições diárias no perfil corporativo da Ilumisol: [AdemirIlumisol](https://github.com/AdemirIlumisol)  
+### 🏢 Histórico de Contribuições na Ilumisol
+Durante meu período como desenvolvedor na **[Ilumisol Energia Solar](https://ilumisol.com.br/)**, mantive atividades utilizando o perfil [AdemirIlumisol](https://github.com/AdemirIlumisol).  
+Confira indicadores desse período no perfil corporativo.
+
 ---
 
 ### 🐍 Minhas Contribuições
@@ -56,8 +67,9 @@
 
 ### 🎯 Sobre mim
 - Gosto de transformar ideias em soluções digitais  
-- Foco atual: **landing pages de alta conversão**   
+- Foco atual: **landing pages de alta conversão**  
 - Nas horas vagas → aprender novas stacks  
 
 ---
+
 ⭐ *“Transformando dados em soluções inteligentes para impulsionar empresas”*
