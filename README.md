@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o Ademir Junior (A-M-JR)
+<img width="1263" height="509" alt="image" src="https://github.com/user-attachments/assets/c32959c2-7774-4305-a336-f2a6f5657b49" /># 👋 Olá, eu sou o Ademir Junior (A-M-JR)
 
 💡 **Sócio na [BitWise Agency](https://bitwiseagency.com.br/)**  
 🚀 Empresa focada em **landing pages, sistemas web e soluções personalizadas para empresas**  
-🤝 Junto com [Breno Parizotto](https://github.com/BrenoParizotto)  
+🤝 Junto com meu parceiro [Breno Parizotto](https://github.com/BrenoParizotto)  
 
 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ademir-maiante-junior-860b791a8/)  
 💬 Fale direto com a nossa empresa:  
@@ -17,11 +17,20 @@
 
 ---
 
-### 📈 Minhas estatísticas
+### 📈 Estatísticas do Perfil Pessoal (A-M-JR)
 ![Ademir GitHub stats](https://github-readme-stats.vercel.app/api?username=A-M-JR&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-M-JR&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=A-M-JR&theme=radical)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-M-JR&theme=radical)
+
+---
+
+### 🏢 Contribuições Empresariais (Ilumisol)
+📌 Também mantenho contribuições diárias no perfil corporativo da Ilumisol: [AdemirIlumisol](https://github.com/AdemirIlumisol)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemirIlumisol&show_icons=true&theme=tokyonight)  
+![Streak stats](https://streak-stats.demolab.com?user=AdemirIlumisol&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemirIlumisol&layout=compact&theme=tokyonight)
 
 ---
 
@@ -45,8 +54,8 @@
 ### 🎯 Sobre mim
 - Gosto de transformar ideias em soluções digitais  
 - Foco atual: **landing pages de alta conversão**  
-- Nas horas vagas → aprender novas stacks  
+- Cafézinho é meu combustível diário ☕  
+- Nas horas vagas → aprender novas stacks & jogar um futebol ⚽  
 
 ---
-
 ⭐ *“Transformando dados em soluções inteligentes para impulsionar empresas”*
