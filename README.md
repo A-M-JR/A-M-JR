@@ -1,4 +1,4 @@
-<img width="1263" height="509" alt="image" src="https://github.com/user-attachments/assets/c32959c2-7774-4305-a336-f2a6f5657b49" /># 👋 Olá, eu sou o Ademir Junior (A-M-JR)
+# 👋 Olá, eu sou o Ademir Junior (A-M-JR)
 
 💡 **Sócio na [BitWise Agency](https://bitwiseagency.com.br/)**  
 🚀 Empresa focada em **landing pages, sistemas web e soluções personalizadas para empresas**  
@@ -14,6 +14,13 @@
 - 🖥️ **Back-end**: PHP 7.4, CodeIgniter 3, Node.js  
 - 🎨 **Front-end**: Bootstrap 5, TailwindCSS, React  
 - 🗄️ **Banco de Dados**: MySQL, PostgreSQL  
+
+---
+
+### 🚀 Projetos em Destaque
+- [Legado CRM](https://github.com/A-M-JR/legado-CRM) – Sistema de gestão de clientes feito em TypeScript  
+- [BitWise Agency Site](https://github.com/A-M-JR/BitWise-Site) – Landing page institucional da empresa  
+- [Brinque CRM](https://github.com/A-M-JR/brinque-crm) – CRM simples e rápido para pequenas empresas  
 
 ---
 
