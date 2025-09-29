@@ -17,13 +17,6 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-- [Legado CRM](https://github.com/A-M-JR/legado-CRM) – Sistema de gestão de clientes feito em TypeScript  
-- [BitWise Agency Site](https://github.com/A-M-JR/BitWise-Site) – Landing page institucional da empresa  
-- [Brinque CRM](https://github.com/A-M-JR/brinque-crm) – CRM simples e rápido para pequenas empresas  
-
----
-
 ### 📈 Minhas estatísticas
 ![Ademir GitHub stats](https://github-readme-stats.vercel.app/api?username=A-M-JR&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-M-JR&layout=compact&theme=radical)  
