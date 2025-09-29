@@ -1,20 +1,23 @@
-# 👋 Olá, eu sou o Ademir Junior  
+# 👋 Olá, eu sou o Ademir Junior (A-M-JR)
 
-💻 Desenvolvedor apaixonado por tecnologia e interessado em criar soluções criativas com **TypeScript, Node.js e React**.  
-🚀 Sempre aprendendo, evoluindo e buscando contribuir com a comunidade open-source.  
+💡 **Sócio na [BitWise Agency](https://bitwiseagency.com.br/)**  
+🚀 Empresa focada em **landing pages, sistemas web e soluções personalizadas para empresas**  
+🤝 Junto com meu parceiro [Breno Parizotto](https://github.com/BrenoParizotto)  
+
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/ademir-maiante-junior-860b791a8/)
 
 ---
 
-### 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub Followers](https://img.shields.io/github/followers/A-M-JR?style=social)](https://github.com/A-M-JR) 
-![Profile views](https://komarev.com/ghpvc/?username=A-M-JR&color=blue)
+### ⚡ Stack Atual
+- 🖥️ **Back-end**: PHP 7.4, CodeIgniter 3, Node.js  
+- 🎨 **Front-end**: Bootstrap 5, TailwindCSS, React  
+- 🗄️ **Banco de Dados**: MySQL, PostgreSQL  
 
 ---
 
 ### 📈 Minhas estatísticas
-![Ademir GitHub stats](https://github-readme-stats.vercel.app/api?username=A-M-JR&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-M-JR&layout=compact&theme=radical)  
+![Ademir GitHub stats](https://github-readme-stats.vercel.app/api?username=A-M-JR&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-M-JR&layout=compact&theme=radical)
 
 ---
 
@@ -24,12 +27,15 @@
 ---
 
 ### 🚀 Tecnologias que uso no dia a dia
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-⭐ *“They are not beautiful things that mark our lives, but people who have the gift of never being forgotten.”*
+⭐ *“Transformando dados em soluções inteligentes para impulsionar empresas”*
