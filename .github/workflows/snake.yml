@@ -1,26 +1,27 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
-  schedule: # Executa diariamente
+  schedule: # roda todos os dias à meia-noite
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
 
-      - name: Generate snake
-        uses: Platane/snk@v3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: A-M-JR
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
+      - name: Upload snake to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: output
-          message: "Generate Snake"
-          add: "dist/*"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
